@@ -1,3 +1,7 @@
+---
+tags: [gpg, smartcard ]
+---
+
 # 4. GnuPG
 
 Date: 2021-05-26
